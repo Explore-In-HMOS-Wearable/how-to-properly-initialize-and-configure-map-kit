@@ -23,8 +23,8 @@ A HarmonyOS wearable application demonstrating Map Kit initialization and config
 # Tech Stack
 
 - **Languages:** ArkTS, ArkUI
-- **Frameworks:** HarmonyOS NEXT SDK
-- **Tools:** DevEco Studio NEXT
+- **Frameworks:** HarmonyOS SDK 6.0.1(21)
+- **Tools:** DevEco Studio 6.0.1
 - **Libraries:**
   - `@kit.MapKit`
   - `@kit.BasicServicesKit`
